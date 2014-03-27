@@ -1,8 +1,8 @@
 #Guiding principals of WEFTSTRA
 
-* template navigation based on http://perishablepress.com
+* main navigation based on http://perishablepress.com
 * coding style guide based on http://mdo.github.io/code-guide/
-* content management system based on http://monstra.org
+* templating & content management based on http://monstra.org
 * using responsive design methods based on:
 	* http://wtfhtmlcss.com (grid)
 	* http://perishablepress.com (nested navigation menu items in pure css)
