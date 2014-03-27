@@ -1,4 +1,4 @@
-#the idea is:
+#Guiding principals of WEFTSTRA
 
 * template navigation based on http://perishablepress.com
 * coding style guide based on http://mdo.github.io/code-guide/
