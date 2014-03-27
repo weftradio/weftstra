@@ -9,7 +9,7 @@ Perishable uses .group as .container
       position: relative;
     }
 
-This is more akin to how I'm used to styling page layout, as opposed to the method I've been reading recently where fundamental page layout blocks are sized in em or rem. (see [code-guide](http://mdo.github.io/code-guide), [wtfhtmlcss](http://wtfhtmlcss.com), and [table-grid](http://mdo.github.io/table-grid))
+This is more akin to how I'm used to styling page layout, as opposed to the method I've been reading recently where fundamental page layout blocks are sized in em or rem. (see @mdo's [code-guide](http://mdo.github.io/code-guide), [wtfhtmlcss](http://wtfhtmlcss.com), and [table-grid](http://mdo.github.io/table-grid))
 
 I think I'll use this (implement a .container) as a way to stay comfortable while treading into new territory with newly-learned (responsive) design approaches.
 
