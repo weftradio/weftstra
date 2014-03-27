@@ -15,6 +15,6 @@
 	* http://www.gnome.org/gnome-3/ (easy layout by simply adding HRs! I could * have done this to Boneyard Biscuts for a little nicer demo)
 	* http://www.websanova.com/blog/articles/websanova-is-tracking-mlb-com (for sticky navigation bar on the bottom)
 
-
+- - -
 
 _note to self_: __MODERN WEB DESIGN   |   LIBRARIES  |  COMMUNITY ENGAGEMENT__
