@@ -4,7 +4,6 @@
 * coding style guide based on http://mdo.github.io/code-guide/
 * main navigation based on http://perishablepress.com
 * possible sticky header nav based on http://kenwheeler.github.io/slick/
-
 * using responsive design methods based on:
 	* http://wtfhtmlcss.com (grid)
 	* http://perishablepress.com (nested navigation menu items in pure css)
